@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/activity_login.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/fragment_data.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/fragment_data.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/activity_example_adapter.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/activity_example_adapter.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/fragment_preferences.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/fragment_preferences.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/activity_next.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/activity_next.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/activity_example_item.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/activity_example_item.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/activity_add_data.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/activity_add_data.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/activity_list_data.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/activity_list_data.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/activity_register.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/activity_color_picker.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/activity_color_picker.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/fragment_home.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-mergeDebugResources-33:/layout/activity_motion.xml",
+        "source": "com.example.censusdatacollectionapp-main-36:/layout/activity_motion.xml"
+    }
+]

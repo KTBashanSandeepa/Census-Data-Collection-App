@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\drawable_logo_transparent.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\drawable\\logo_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\drawable_baseline_person_add_alt_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\drawable\\baseline_person_add_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\xml_activity_motion_scene.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\xml\\activity_motion_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_activity_list_data.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\activity_list_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_activity_motion.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\activity_motion.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_fragment_preferences.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\fragment_preferences.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_activity_example_adapter.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\activity_example_adapter.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_activity_next.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\activity_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_activity_add_data.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\activity_add_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_fragment_data.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\fragment_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\drawable_baseline_photo_camera_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\drawable\\baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\drawable_baseline_settings_suggest_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\drawable\\baseline_settings_suggest_24.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_activity_example_item.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\activity_example_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\layout_activity_color_picker.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\layout\\activity_color_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\drawable_bg.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\drawable\\bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\drawable_textround.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\drawable\\textround.xml"
+    },
+    {
+        "merged": "com.example.censusdatacollectionapp-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.censusdatacollectionapp-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-merged_res-34:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.censusdatacollectionapp-main-36:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    }
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987173278759",
+    "project_id": "census-data-collecting-app",
+    "storage_bucket": "census-data-collecting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987173278759:android:f4c358d62bf2d8aa172a02",
+        "android_client_info": {
+          "package_name": "com.example.censusdatacollectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987173278759-9f39p0k897a50m4d6c0otedtfkmopg1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtbZ1DoCX_i4TQvr7EupCVCBTPWxlvWLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987173278759-9f39p0k897a50m4d6c0otedtfkmopg1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

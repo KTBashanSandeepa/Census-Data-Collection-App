@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">987173278759-9f39p0k897a50m4d6c0otedtfkmopg1o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">987173278759</string>
+    <string name="google_api_key" translatable="false">AIzaSyCtbZ1DoCX_i4TQvr7EupCVCBTPWxlvWLQ</string>
+    <string name="google_app_id" translatable="false">1:987173278759:android:f4c358d62bf2d8aa172a02</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCtbZ1DoCX_i4TQvr7EupCVCBTPWxlvWLQ</string>
+    <string name="google_storage_bucket" translatable="false">census-data-collecting-app.appspot.com</string>
+    <string name="project_id" translatable="false">census-data-collecting-app</string>
+</resources>

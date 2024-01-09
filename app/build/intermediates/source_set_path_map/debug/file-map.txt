@@ -1,0 +1,37 @@
+com.example.censusdatacollectionapp-recyclerview-1.1.0-0 C:\Users\Asus\.gradle\caches\transforms-3\09d1458b878d5da31eba48b7633b9744\transformed\recyclerview-1.1.0\res
+com.example.censusdatacollectionapp-appcompat-resources-1.6.1-1 C:\Users\Asus\.gradle\caches\transforms-3\0c66717593e48f1c486427ad9a0bb223\transformed\appcompat-resources-1.6.1\res
+com.example.censusdatacollectionapp-constraintlayout-2.1.4-2 C:\Users\Asus\.gradle\caches\transforms-3\2777327c70e4f870482006048d22030c\transformed\constraintlayout-2.1.4\res
+com.example.censusdatacollectionapp-emoji2-views-helper-1.2.0-3 C:\Users\Asus\.gradle\caches\transforms-3\303eb16cc9369309696373d1c64160a7\transformed\emoji2-views-helper-1.2.0\res
+com.example.censusdatacollectionapp-play-services-basement-18.1.0-4 C:\Users\Asus\.gradle\caches\transforms-3\3ed17915a2e744c2bbbfb52330773cf5\transformed\play-services-basement-18.1.0\res
+com.example.censusdatacollectionapp-annotation-experimental-1.3.0-5 C:\Users\Asus\.gradle\caches\transforms-3\44fb1c653c2c68d50a0ce37637582265\transformed\annotation-experimental-1.3.0\res
+com.example.censusdatacollectionapp-core-1.9.0-6 C:\Users\Asus\.gradle\caches\transforms-3\46580efff2520e68c7940204055d2c0f\transformed\core-1.9.0\res
+com.example.censusdatacollectionapp-lifecycle-viewmodel-2.5.1-7 C:\Users\Asus\.gradle\caches\transforms-3\49c441acf51bca3239ab80d2c51c387f\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.censusdatacollectionapp-activity-1.6.0-8 C:\Users\Asus\.gradle\caches\transforms-3\4a1200b74ec5664f01a3bd0edec7fbd1\transformed\activity-1.6.0\res
+com.example.censusdatacollectionapp-viewpager2-1.0.0-9 C:\Users\Asus\.gradle\caches\transforms-3\4e7c85644e71739fb01d876360f654a1\transformed\viewpager2-1.0.0\res
+com.example.censusdatacollectionapp-ambilwarna-2.0.1-10 C:\Users\Asus\.gradle\caches\transforms-3\5155b77dd65eba2fb11a9b50ccad469f\transformed\ambilwarna-2.0.1\res
+com.example.censusdatacollectionapp-appcompat-1.6.1-11 C:\Users\Asus\.gradle\caches\transforms-3\5815f17bf5b82e8ee5346a6b6869f837\transformed\appcompat-1.6.1\res
+com.example.censusdatacollectionapp-cardview-1.0.0-12 C:\Users\Asus\.gradle\caches\transforms-3\5ab704b9f30b4bd756acf898afd9cbf1\transformed\cardview-1.0.0\res
+com.example.censusdatacollectionapp-drawerlayout-1.1.1-13 C:\Users\Asus\.gradle\caches\transforms-3\6421c30708a4f063ae438080d1431a58\transformed\drawerlayout-1.1.1\res
+com.example.censusdatacollectionapp-fragment-1.3.6-14 C:\Users\Asus\.gradle\caches\transforms-3\70a46e08f26eda2935e3134300925536\transformed\fragment-1.3.6\res
+com.example.censusdatacollectionapp-material-1.8.0-15 C:\Users\Asus\.gradle\caches\transforms-3\75a1c0f2b09d2197eac62fde5ddc8cbd\transformed\material-1.8.0\res
+com.example.censusdatacollectionapp-lifecycle-runtime-2.5.1-16 C:\Users\Asus\.gradle\caches\transforms-3\7c64d2850486e0b19cf723be75f3ec1f\transformed\lifecycle-runtime-2.5.1\res
+com.example.censusdatacollectionapp-play-services-base-18.1.0-17 C:\Users\Asus\.gradle\caches\transforms-3\8a19cf77664cd0c37e70c8090baf5942\transformed\play-services-base-18.1.0\res
+com.example.censusdatacollectionapp-firebase-common-20.3.2-18 C:\Users\Asus\.gradle\caches\transforms-3\9d36afbc47413410132b9745cffb91fe\transformed\firebase-common-20.3.2\res
+com.example.censusdatacollectionapp-core-ktx-1.9.0-19 C:\Users\Asus\.gradle\caches\transforms-3\a5384cee19bec3a9ede41da8ede688b4\transformed\core-ktx-1.9.0\res
+com.example.censusdatacollectionapp-lifecycle-process-2.4.1-20 C:\Users\Asus\.gradle\caches\transforms-3\a7afaacbc7177510ad6c44aabd6a8811\transformed\lifecycle-process-2.4.1\res
+com.example.censusdatacollectionapp-emoji2-1.2.0-21 C:\Users\Asus\.gradle\caches\transforms-3\ac0fb3956709d2347e7c19d6d7a40626\transformed\emoji2-1.2.0\res
+com.example.censusdatacollectionapp-lifecycle-livedata-core-2.5.1-22 C:\Users\Asus\.gradle\caches\transforms-3\b03783187fce79d86a2da1efd818c645\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.censusdatacollectionapp-transition-1.2.0-23 C:\Users\Asus\.gradle\caches\transforms-3\b3a299574efd31b144ad761943e82fc7\transformed\transition-1.2.0\res
+com.example.censusdatacollectionapp-coordinatorlayout-1.1.0-24 C:\Users\Asus\.gradle\caches\transforms-3\b59403fac015229d4f85b99e077c1096\transformed\coordinatorlayout-1.1.0\res
+com.example.censusdatacollectionapp-lifecycle-viewmodel-savedstate-2.5.1-25 C:\Users\Asus\.gradle\caches\transforms-3\d313ddb90740d8abda1b3f2ec99d88e6\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.censusdatacollectionapp-startup-runtime-1.1.1-26 C:\Users\Asus\.gradle\caches\transforms-3\f254e3de7539a69b8a3df1a40f55b03e\transformed\startup-runtime-1.1.1\res
+com.example.censusdatacollectionapp-savedstate-1.2.0-27 C:\Users\Asus\.gradle\caches\transforms-3\f6330ad9024c654d6f968a9bfd197881\transformed\savedstate-1.2.0\res
+com.example.censusdatacollectionapp-google-services-28 D:\KDU_CE\KDU_LEARN\3rd Year\1st Sem\MC\Android Studio\Census Data Collection App\app\build\generated\res\google-services\debug
+com.example.censusdatacollectionapp-pngs-29 D:\KDU_CE\KDU_LEARN\3rd Year\1st Sem\MC\Android Studio\Census Data Collection App\app\build\generated\res\pngs\debug
+com.example.censusdatacollectionapp-resValues-30 D:\KDU_CE\KDU_LEARN\3rd Year\1st Sem\MC\Android Studio\Census Data Collection App\app\build\generated\res\resValues\debug
+com.example.censusdatacollectionapp-rs-31 D:\KDU_CE\KDU_LEARN\3rd Year\1st Sem\MC\Android Studio\Census Data Collection App\app\build\generated\res\rs\debug
+com.example.censusdatacollectionapp-packageDebugResources-32 D:\KDU_CE\KDU_LEARN\3rd Year\1st Sem\MC\Android Studio\Census Data Collection App\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.censusdatacollectionapp-packageDebugResources-33 D:\KDU_CE\KDU_LEARN\3rd Year\1st Sem\MC\Android Studio\Census Data Collection App\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.censusdatacollectionapp-merged_res-34 D:\KDU_CE\KDU_LEARN\3rd Year\1st Sem\MC\Android Studio\Census Data Collection App\app\build\intermediates\merged_res\debug
+com.example.censusdatacollectionapp-debug-35 D:\KDU_CE\KDU_LEARN\3rd Year\1st Sem\MC\Android Studio\Census Data Collection App\app\src\debug\res
+com.example.censusdatacollectionapp-main-36 D:\KDU_CE\KDU_LEARN\3rd Year\1st Sem\MC\Android Studio\Census Data Collection App\app\src\main\res
